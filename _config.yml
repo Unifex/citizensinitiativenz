@@ -1,0 +1,24 @@
+title: Citizens Initiative NZ
+description: Our Voices, Our Democracy
+baseurl: ""
+url: "https://citizensinitiative.nz"
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social media
+social:
+  tiktok: citizensinitiativenz
+  instagram: citizensinitiativenz
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
